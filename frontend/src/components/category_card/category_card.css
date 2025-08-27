@@ -10,6 +10,8 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  height: 420.735px;
+  margin: 0.75rem 0rem;
 }
 
 /* --- Hover Effect --- */
@@ -22,12 +24,14 @@
 .card-image-container {
   width: 100%;
   height: 200px; /* Fixed height for a uniform look */
+    background-color: white;  /* <------- change later */
 }
 
 .card-image-container img {
   width: 100%;
   height: 100%;
-  object-fit: cover; /* Ensures the image covers the container without distortion */
+  /* object-fit: cover; Ensures the image covers the container without distortion */
+  object-fit: contain; /* Ensures the image covers the container without distortion */
 } 
 
 /* --- Content Styling (Name, Description, Button) --- */
