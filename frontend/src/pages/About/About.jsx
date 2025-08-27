@@ -19,7 +19,7 @@ function About(){
                 </div>
                 <div className='cofounder'>
                     <div className='cofounder-data'>
-                        <h3>Kartik Singh</h3>
+                        <h3>Kartikay Singh</h3>
                         <p>Co-Founder and CTO</p>
                         <div className='cofounder-msg'><p>As the Co-Founder and CTO of Sanshi H2O, I’m proud to combine technology with nature to bring you the cleanest, most refreshing water. Through advanced filtration systems and sustainable processes, we ensure every drop meets our rigorous standards. Our commitment is not just to purity, but to innovation that makes water smarter, safer, and more accessible for all.</p></div>
                     </div>
